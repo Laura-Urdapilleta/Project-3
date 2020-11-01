@@ -5,7 +5,7 @@ Machine Learning Classification Project
 Building Damage Level After an Earthquake
 
 ### Description
-CLassifying the level of damage that buildings suffered after the Gorthka earthquake in Nepal. The classificaiton is based on buildings location and aspects of construction.  
+CLassifying the level of building damage after the Gorthka earthquake in Nepal. The classificaiton is based on building location and aspects of construction.  
 
 ### Features and Target Variables
 Target: Damage Level (Low, Medium, Complete Destruction)
@@ -19,7 +19,7 @@ Supervised Learning\
 Streamlit
 
 ### Possible impacts of your project
-The plan of reconstruction after an earthquake can be informed by machine learning, which can help us classiy remaining and new buildings depending on their level of risk. With this information thousands of lives can be saved when facing a natural disaster like the Gorthka earthquake in Nepal. That earthquake presented a ration of 0.011 deads per building damaged (762,106 buildings where damaga and 9,000 people died). This models is able to correctly classify the level of damaga if 444,666 builings. If measures are taken, there is the posibility to save almost 5000 lives. It is important to meantion that in the most critical class (complete destruction), the model was able to correctly classify 71% of the buildings. Machine Learning can inform the plan of reconstruction, audit, and inspection of infrastructure, to save lives and resources in the face of a future eartquake. 
+The national plan of reconstruction after an earthquake can be informed by machine learning, which can help us classiy remaining and new buildings depending on their level of risk. With this information thousands of lives can be saved when facing a natural disaster like the Gorthka earthquake in Nepal. That earthquake presented a ratio of 0.011 deads per building damaged (762,106 buildings where damaga and 9,000 people died). This models is able to correctly classify the level of damage if 444,666 builings. If measures are taken, there is the posibility to save almost 5000 lives. It is important to mention that in the most critical class (complete destruction), the model was able to correctly classify 71% of the buildings. Machine Learning can inform the plan of reconstruction, audit, and inspection, to save lives and resources in the face of a future eartquake. 
 
 ### File Contents
 Streamlit app\
